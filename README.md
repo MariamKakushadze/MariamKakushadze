@@ -19,7 +19,8 @@ I am Mariam Kakushadze, frond-end developer.I am currently studying at Full-Stac
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mariamkakushadze&count_private=true&show_icons=true&include_all_commits=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=MariamKakushadze)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamkakushadze&hide=TeX&layout=compact)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMariamKakushadze&label=visitors&countColor=%23263759)
