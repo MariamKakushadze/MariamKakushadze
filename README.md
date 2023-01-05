@@ -23,8 +23,8 @@ I am Mariam Kakushadze, frond-end developer.I am currently studying at Full-Stac
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![github stats](github-readme-stats-1-sand.vercel.app/api?username=MariamKakushadze&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats-1-mariamkakushadze.vercel.app/api?username=MariamKakushadze&show_icons=true&theme=radical)
 
-[![Top Langs](github-readme-stats-1-sand.vercel.app/api/top-langs/?username=mariamkakushadze&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-1-mariamkakushadze.vercel.app/api/top-langs/?username=mariamkakushadze&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 ![](https://komarev.com/ghpvc/?username=MariamKakushadze&style=flat&color=blueviolet)
